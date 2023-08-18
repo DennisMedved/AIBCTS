@@ -1,0 +1,6 @@
+keras==2.13.1
+keras_efficientnet_v2==1.2.2
+numpy==1.24.3
+scikit_learn==1.2.2
+tensorflow==2.13.0
+tifffile==2021.7.2
